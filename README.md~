@@ -1,0 +1,14 @@
+# ECOMMERCE
+
+
+Ecommerce, modern web teknolojileri olan **HTML**, **CSS** ve **JavaScript** kullanılarak geliştirilmiş bir online alışveriş platformu örneğidir. Bu proje, dinamik bir kullanıcı deneyimi sağlamak için tasarlanmıştır.
+
+## Özellikler
+
+- **Ürün Listesi**: Ürünlerin görüntülenmesi ve kategori bazlı filtreleme.
+- **Sepet İşlemleri**: Ürünlerin sepete eklenmesi ve çıkarılması.
+- **Dinamik UI**: JavaScript ile interaktif kullanıcı deneyimi.
+- **Duyarlı Tasarım**: Farklı cihazlar için optimize edilmiş görünüm.
+
+## Kurulum
+
